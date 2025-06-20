@@ -1,3 +1,4 @@
+-- SQL 50 Challenge 
 -- Day 02: Find Customer Referee
 -- https://leetcode.com/problems/find-customer-referee
 
