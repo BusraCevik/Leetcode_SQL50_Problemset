@@ -13,3 +13,6 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | Day  | Problem Title                     | Solution File                                     | Notes File                     |
 |-------|---------------------------------|-------------------------------------------------|-------------------------------|
 | 01    | Recyclable and Low Fat Products | [SQL](leetcode-sql-50/day01_recyclable_and_low_fat_products.sql) | [Notes](notes/day01-notes.md)  |
+| 02    | Find Customer Referee | [SQL](leetcode-sql-50/day02_find_customer_referee.sql) | [Notes]()  |
+| 03    | Big Countries | [SQL](leetcode-sql-50/day03_big_countries.sql) | [Notes]()  |
+
