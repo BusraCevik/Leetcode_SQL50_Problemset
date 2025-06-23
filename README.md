@@ -16,4 +16,6 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 02    | Find Customer Referee | [SQL](leetcode-sql-50/day02_find_customer_referee.sql) | [Notes]()  |
 | 03    | Big Countries | [SQL](leetcode-sql-50/day03_big_countries.sql) | [Notes]()  |
 | 04    | Article Views I | [SQL](leetcode-sql-50/day04_article_views_1.sql) | [Notes]()  |
+| 05    | Invalid Tweets | [SQL](leetcode-sql-50/day05_invalid_tweets.sql) | [Notes]()  |
+
 
