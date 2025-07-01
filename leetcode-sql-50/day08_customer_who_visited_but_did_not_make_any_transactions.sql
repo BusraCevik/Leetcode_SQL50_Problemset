@@ -1,6 +1,6 @@
 -- SQL 50 Challenge
 -- Day 08: Customer Who Visited but Did Not Make Any Transactions
---https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description
+-- https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description
 
 /*
 

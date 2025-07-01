@@ -1,6 +1,6 @@
 -- SQL 50 Challenge
 -- Day 09: Rising Temperature 
---https://leetcode.com/problems/rising-temperature/description
+-- https://leetcode.com/problems/rising-temperature/description
 
 /*
 

@@ -1,6 +1,6 @@
 -- SQL 50 Challenge
 -- Day 07: Product Sales Analysis I
---https://leetcode.com/problems/product-sales-analysis-i/description
+-- https://leetcode.com/problems/product-sales-analysis-i/description
 
 /*
 
