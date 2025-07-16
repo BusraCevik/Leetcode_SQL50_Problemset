@@ -25,6 +25,8 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 11    | Employee Bonus | [SQL](leetcode-sql-50/day11_employee_bonus.sql) |
 | 12    | Students and Examinations | [SQL](leetcode-sql-50/day12_students_and_examinations.sql) |
 | 13    | Managers With At Least 5 Direct Reports | [SQL](leetcode-sql-50/day13_managers_with_at_least_5_direct_reports.sql) |
+| 14    | Confirmation Rate | [SQL](leetcode-sql-50/day14_confirmation_rate.sql) |
+| 15    | Not Boring Movies | [SQL](leetcode-sql-50/day15_not_boring_movies.sql) |
 
 
 
