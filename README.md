@@ -26,7 +26,8 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 12    | Students and Examinations | [SQL](leetcode-sql-50/day12_students_and_examinations.sql) |
 | 13    | Managers With At Least 5 Direct Reports | [SQL](leetcode-sql-50/day13_managers_with_at_least_5_direct_reports.sql) |
 | 14    | Confirmation Rate | [SQL](leetcode-sql-50/day14_confirmation_rate.sql) |
-| 15    | Not Boring Movies | [SQL](leetcode-sql-50/day15_not_boring_movies.sql) || 16    | Average Selling Price | [SQL](leetcode-sql-50/day16_average_selling_price.sql) |
+| 15    | Not Boring Movies | [SQL](leetcode-sql-50/day15_not_boring_movies.sql) |
+| 16    | Average Selling Price | [SQL](leetcode-sql-50/day16_average_selling_price.sql) |
 
 
 
