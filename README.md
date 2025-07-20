@@ -28,6 +28,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 14    | Confirmation Rate | [SQL](leetcode-sql-50/day14_confirmation_rate.sql) |
 | 15    | Not Boring Movies | [SQL](leetcode-sql-50/day15_not_boring_movies.sql) |
 | 16    | Average Selling Price | [SQL](leetcode-sql-50/day16_average_selling_price.sql) |
+| 17    | Project Employees I | [SQL](leetcode-sql-50/day17_project_employees_1.sql) |
 
 
 
