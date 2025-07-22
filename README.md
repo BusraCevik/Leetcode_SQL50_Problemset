@@ -29,7 +29,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 15    | Not Boring Movies | [SQL](leetcode-sql-50/day15_not_boring_movies.sql) |
 | 16    | Average Selling Price | [SQL](leetcode-sql-50/day16_average_selling_price.sql) |
 | 17    | Project Employees I | [SQL](leetcode-sql-50/day17_project_employees_1.sql) |
-| 18    | Project Percentage Of Users Attended A Contest | [SQL](leetcode-sql-50/day18_percentage_of_users_attended_a_contest.sql) |
+| 18    | Project Percentage Of Users Attended A Contest | [SQL](leetcode-sql-50/day18_percentage_of_users_attended_a_contest.sql) || 19    | Queries Quality and Percentage | [SQL](leetcode-sql-50/day19_queries_quality_and_percentage.sql) |
 
 
 
