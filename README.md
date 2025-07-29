@@ -33,6 +33,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 19    | Queries Quality and Percentage | [SQL](leetcode-sql-50/day19_queries_quality_and_percentage.sql) |
 | 20    | Monthly Transactions I | [SQL](leetcode-sql-50/day20_monthly_transactions_1.sql) |
 | 21    | Immediate Food Delivery II | [SQL](leetcode-sql-50/day21_immediate_food_delivery_2.sql) |
+| 22    | Game Play Analysis IV | [SQL](leetcode-sql-50/day22_game_play_analysis_iv.sql) |
 
 
 
