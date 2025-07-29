@@ -32,6 +32,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 18    | Project Percentage Of Users Attended A Contest | [SQL](leetcode-sql-50/day18_percentage_of_users_attended_a_contest.sql) |
 | 19    | Queries Quality and Percentage | [SQL](leetcode-sql-50/day19_queries_quality_and_percentage.sql) |
 | 20    | Monthly Transactions I | [SQL](leetcode-sql-50/day20_monthly_transactions_1.sql) |
+| 21    | Monthly Transactions I | [SQL](leetcode-sql-50/day21_immediate_food_delivery_2.sql) |
 
 
 
