@@ -34,6 +34,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 20    | Monthly Transactions I | [SQL](leetcode-sql-50/day20_monthly_transactions_1.sql) |
 | 21    | Immediate Food Delivery II | [SQL](leetcode-sql-50/day21_immediate_food_delivery_2.sql) |
 | 22    | Game Play Analysis IV | [SQL](leetcode-sql-50/day22_game_play_analysis_iv.sql) |
+| 23    | Number of Unique Subjects Taught by Each Teacher | [SQL](leetcode-sql-50/day23_number_of_unique_subjects_taught_by_each_teacher.sql) |
 
 
 
