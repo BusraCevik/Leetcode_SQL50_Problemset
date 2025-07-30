@@ -37,6 +37,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 23    | Number of Unique Subjects Taught by Each Teacher | [SQL](leetcode-sql-50/day23_number_of_unique_subjects_taught_by_each_teacher.sql) |
 | 24    | User Activity for the Past 30 Days I | [SQL](leetcode-sql-50/day24_user_activity_for_the_past_30_days_i.sql) |
 | 25    | Product Sales Analysis III | [SQL](leetcode-sql-50/day25_product_sales_analysis_iii.sql) |
+| 26    | Classes With at Least 5 Students | [SQL](leetcode-sql-50/day26_classes_with_at_least_5_students.sql) |
 
 
 
