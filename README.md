@@ -39,5 +39,8 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 25    | Product Sales Analysis III | [SQL](leetcode-sql-50/day25_product_sales_analysis_iii.sql) |
 | 26    | Classes With at Least 5 Students | [SQL](leetcode-sql-50/day26_classes_with_at_least_5_students.sql) |
 | 27    | Find Followers Count | [SQL](leetcode-sql-50/day27_find_followers_count.sql) |
+| 28    | Biggest Single Number | [SQL](leetcode-sql-50/day28_biggest_single_number.sql) |
+| 29    | Customers Who Bought All Products | [SQL](leetcode-sql-50/day29_customers_who_bought_all_products.sql) |
+| 30    | The Number of Employees Which Report to Each Employee | [SQL](leetcode-sql-50/day30_the_number_of_employees_which_report_to_each_employee.sql) |
 
 
