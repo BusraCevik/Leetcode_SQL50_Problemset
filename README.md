@@ -42,5 +42,6 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 28    | Biggest Single Number | [SQL](leetcode-sql-50/day28_biggest_single_number.sql) |
 | 29    | Customers Who Bought All Products | [SQL](leetcode-sql-50/day29_customers_who_bought_all_products.sql) |
 | 30    | The Number of Employees Which Report to Each Employee | [SQL](leetcode-sql-50/day30_the_number_of_employees_which_report_to_each_employee.sql) |
+| 31    | Primary Department for Each Employee | [SQL](leetcode-sql-50/day31_primary_department_for_each_employee.sql) |
 
 
