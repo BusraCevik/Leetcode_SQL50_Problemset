@@ -44,5 +44,5 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 30    | The Number of Employees Which Report to Each Employee | [SQL](leetcode-sql-50/day30_the_number_of_employees_which_report_to_each_employee.sql) |
 | 31    | Primary Department for Each Employee | [SQL](leetcode-sql-50/day31_primary_department_for_each_employee.sql) |
 | 32    | Triangle Judgement | [SQL](leetcode-sql-50/day32_triangle_judgement.sql) |
-
+| 33    | Consecutive Numbers | [SQL](leetcode-sql-50/day33_consecutive_numbers.sql) |
 
