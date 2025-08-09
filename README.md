@@ -45,4 +45,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 31    | Primary Department for Each Employee | [SQL](leetcode-sql-50/day31_primary_department_for_each_employee.sql) |
 | 32    | Triangle Judgement | [SQL](leetcode-sql-50/day32_triangle_judgement.sql) |
 | 33    | Consecutive Numbers | [SQL](leetcode-sql-50/day33_consecutive_numbers.sql) |
+| 34    | Product Price at a Given Date | [SQL](leetcode-sql-50/day34_product_price_at_a_given_date.sql) |
+| 35    | Last Person to Fit in the Bus| [SQL](leetcode-sql-50/day35_last_person_to_fit_in_the_bus.sql) |
+
 
