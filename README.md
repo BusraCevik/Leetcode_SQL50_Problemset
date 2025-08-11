@@ -47,5 +47,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 33    | Consecutive Numbers | [SQL](leetcode-sql-50/day33_consecutive_numbers.sql) |
 | 34    | Product Price at a Given Date | [SQL](leetcode-sql-50/day34_product_price_at_a_given_date.sql) |
 | 35    | Last Person to Fit in the Bus| [SQL](leetcode-sql-50/day35_last_person_to_fit_in_the_bus.sql) |
+| 36    | Count Salary Categories| [SQL](leetcode-sql-50/day36_count_salary_categories.sql) |
+| 37    | Employees Whose Manager Left the Company| [SQL](leetcode-sql-50/day37_employees_whose_manager_left_the_company.sql) |
 
 
