@@ -50,5 +50,6 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 36    | Count Salary Categories| [SQL](leetcode-sql-50/day36_count_salary_categories.sql) |
 | 37    | Employees Whose Manager Left the Company| [SQL](leetcode-sql-50/day37_employees_whose_manager_left_the_company.sql) |
 | 38    | Exchange Seats| [SQL](leetcode-sql-50/day38_exchange_seats.sql) |
+| 39    | Movie Rating| [SQL](leetcode-sql-50/day39_movie_rating.sql) |
 
 
