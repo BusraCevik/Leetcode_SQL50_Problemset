@@ -51,5 +51,7 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 37    | Employees Whose Manager Left the Company| [SQL](leetcode-sql-50/day37_employees_whose_manager_left_the_company.sql) |
 | 38    | Exchange Seats| [SQL](leetcode-sql-50/day38_exchange_seats.sql) |
 | 39    | Movie Rating| [SQL](leetcode-sql-50/day39_movie_rating.sql) |
+| 40    | Restaurant Growth| [SQL](leetcode-sql-50/day40_restaurant_growth.sql) |
+| 41    | Friend Requests II: Who Has the Most Friends| [SQL](leetcode-sql-50/dday41_friend_requests_ii_who_has_the_most_friends.sql) |
 
 
