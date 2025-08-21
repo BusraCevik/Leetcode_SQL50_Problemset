@@ -53,8 +53,10 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 39    | Movie Rating| [SQL](leetcode-sql-50/day39_movie_rating.sql) |
 | 40    | Restaurant Growth| [SQL](leetcode-sql-50/day40_restaurant_growth.sql) |
 | 41    | Friend Requests II: Who Has the Most Friends| [SQL](leetcode-sql-50/day41_friend_requests_ii_who_has_the_most_friends.sql) |
-| 42    | Investments In 2016| [SQL]() |
-| 43    | Department Top Three Salaries| [SQL]() |
+| 42    | Investments In 2016| [SQL](leetcode-sql-50/day42_investments_in_2016.sql) |
+| 43    | Department Top Three Salaries| [SQL](leetcode-sql-50/day43_department_top_three_salaries.sql) |
 | 44    | Fix Names In a Table| [SQL](leetcode-sql-50/day44_fix_names_in_a_table.sql) |
+| 45    | Patients With a Condition| [SQL](leetcode-sql-50/day45_patients_with_a_condition.sql) |
+
 
 
