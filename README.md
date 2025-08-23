@@ -1,10 +1,17 @@
 # LeetCode SQL Top 50 – Daily Practice
 
-This repository contains my daily solutions for LeetCode's Top 50 SQL problems.  
-Each day, I solve one problem, write the SQL query, and add notes for better understanding.  
+This repository contains my daily solutions for LeetCode's Top 50 SQL problems. Each day, I solve one problem, 
+write the SQL query, and add notes for better understanding.  
 
-📅 Start Date: June 20, 2025  
-🎯 Goal: Complete all 50 problems in 50 days
+📅 Start Date: June 20, 2025
+📅 End Date: August 23, 2025
+🎯 Goal: Complete all 50 problems
+
+Update: It was an amazing journey. After completing this challenge, I feel much more confident in my SQL skills. 
+This problem set was thoughtfully designed and really helped me strengthen my understanding. I’m proud of 
+the consistency and effort I put into completing all 50 problems, and I’m excited to take on even more 
+challenges in the future! 💪✨
+
 
 ---
 
@@ -57,6 +64,12 @@ Each day, I solve one problem, write the SQL query, and add notes for better und
 | 43    | Department Top Three Salaries| [SQL](leetcode-sql-50/day43_department_top_three_salaries.sql) |
 | 44    | Fix Names In a Table| [SQL](leetcode-sql-50/day44_fix_names_in_a_table.sql) |
 | 45    | Patients With a Condition| [SQL](leetcode-sql-50/day45_patients_with_a_condition.sql) |
+| 46    | Delete Duplicate Emails| [SQL](leetcode-sql-50/day46_delete_duplicate_emails.sql) |
+| 47    | Second Highest Salary| [SQL](leetcode-sql-50/day47_second_highest_salary.sql) |
+| 48    | Group Sold Products By The Date| [SQL](leetcode-sql-50/day48_group_sold_products_by_the_date.sql) |
+| 49    | List the Products Ordered in a Period| [SQL](leetcode-sql-50/day49_list_the_products_ordered_in_a_period.sql) |
+| 50    | Find Users With Valid E-Mails| [SQL](leetcode-sql-50/day50_find_users_with_valid_emails.sql) |
+
 
 
 
